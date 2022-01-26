@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        // 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
+        //
         spinWords("Hey fellow warriors");
     }
     public static String spinWords(String word){
